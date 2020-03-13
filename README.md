@@ -1,1 +1,1 @@
-TELAS E BANCO - SISTEMA MERENDA
+Tela e Banco de Dados de um sistema de controle de distribuição de merenda, para os alunos da ETEC da Zona Leste.
